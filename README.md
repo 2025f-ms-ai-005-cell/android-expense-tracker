@@ -12,7 +12,13 @@ AI-assisted Kotlin portfolio demo prepared for **Sadia Liaqat**. Tracks expenses
 - No internet permission, backend, analytics or payments; backups disabled.
 - JUnit tests for decimal parsing, invalid input and month filtering.
 
-## Setup
+## Visual overview
+
+![PocketLedger entry and expense history overview](preview.jpg)
+
+Designed UI reconstruction based on the Kotlin source with synthetic expenses. **Not a device screenshot or verified APK.** Covers monthly totals, entry validation, local storage and deletion confirmation. The app uses platform widgets; their exact appearance depends on Android's theme.
+
+## Setup and run
 
 Requirements: Android Studio, Android SDK 35, JDK 17+ and Gradle 8.13.
 
@@ -37,3 +43,4 @@ Local device storage is not encrypted by this app; avoid entering sensitive real
 See `VERIFICATION.md` for executed checks; device behavior must be tested before presenting this as a shipped app.
 
 [Sadia’s LinkedIn](https://www.linkedin.com/in/sadia-liaqat-493998398/)
+
