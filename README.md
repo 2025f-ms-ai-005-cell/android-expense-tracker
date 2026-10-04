@@ -14,7 +14,7 @@ AI-assisted Kotlin portfolio demo prepared for **Sadia Liaqat**. Tracks expenses
 
 ## Visual overview
 
-![PocketLedger entry and expense history overview](preview.jpg)
+![PocketLedger entry and expense history overview](preview-v2.png)
 
 Designed UI reconstruction based on the Kotlin source with synthetic expenses. **Not a device screenshot or verified APK.** Covers monthly totals, entry validation, local storage and deletion confirmation. The app uses platform widgets; their exact appearance depends on Android's theme.
 
